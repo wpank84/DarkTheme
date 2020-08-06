@@ -1,0 +1,308 @@
+/* 
+Old Dark Colors
+
+#1f1e1d
+#121211
+
+*/
+
+/* Color Variables */
+
+:root {
+  --bg-dark: #2c2f33;
+  --bg-darker: #23272a;
+  --text-primary: #e0e0e0;
+  --text-secondary: #808080;
+  --notification: #ca3838;
+}
+
+/* Links */
+a,
+.qiUDtb {
+  color: #4f9cff !important;
+}
+
+/* Header */
+.JaSbNb {
+  background-color: var(--bg-darker) !important;
+}
+
+.kbnyke,
+.gWTIDe,
+.cPjwNc {
+  color: var(--text-primary) !important;
+}
+/* Navbar */
+.QTQg5e {
+  background-color: var(--bg-darker) !important;
+  border-color: var(--bg-dark) !important;
+}
+
+/* Navbar DM Name*/
+.nk7hB .cAW0Vc {
+  color: var(--text-primary) !important;
+}
+
+/* Navbar Room Name */
+.nk7hB,
+.wWf0Bc,
+.nk7hB .cAW0Vc {
+  color: var(--text-primary) !important;
+}
+
+/* Search Bar */
+.wbJc4 {
+  background-color: var(--bg-darker) !important;
+}
+
+.rFrNMe:not(.Xavc3e) .Wic03c,
+.RAIar {
+  background-color: var(--bg-dark) !important;
+}
+
+.RAIar .Znj94d .whsOnd.zHQkB,
+.RAIar .Znj94d .whsOnd.zHQkBf {
+  color: var(--text-primary) !important;
+}
+
+.RAIar .Znj94d .ndJi5d.snByac {
+  color: var(--text-secondary) !important;
+}
+
+/* Search Drop Down */
+.JMZuue {
+  background-color: var(--bg-darker) !important;
+}
+
+.OfkuDb .njhDLd,
+.jRv5Ke,
+.W9bYdf {
+  color: var(--text-secondary) !important;
+}
+
+/* Side Nav Search */
+.hU65Ef {
+  background-color: var(--bg-darker) !important;
+}
+
+.Y2UUVd,
+.ffyVOd,
+.ReIHZc .ZTmjQb {
+  color: var(--text-primary) !important;
+}
+
+.Kfe2Ub,
+.s6FlWd {
+  color: var(--text-secondary) !important;
+}
+
+.d6pS5 {
+  box-shadow: 0 12px 12px -2px rgba(128, 137, 147, 0.07) !important;
+}
+
+/* Search Modal */
+.qDm3sf {
+  color: var(--bg-darker) !important;
+}
+
+/* Side Nav */
+
+.EdWvwd,
+.L3Vfud .FTuhNb {
+  background-color: var(--notification) !important;
+}
+
+.yxIv1d,
+.hqlnxe,
+.PGrLhd {
+  background-color: var(--bg-darker) !important;
+}
+
+.jy2fzc,
+.aOHsTc,
+.t5F5nf {
+  color: var(--text-primary) !important;
+}
+
+.RsRwdf,
+.HLTcjb {
+  color: var(--text-secondary) !important;
+}
+
+/* Name Plate Highlight*/
+.FS4hgd.iWO5td.iWO5td,
+div .dHI9xe.KKjvXb,
+div .dHI9xe.qs41qe {
+  background-color: #293a3a !important;
+}
+
+.dHI9xe.qs41qe .ojqkvd.ojqkvd {
+  color: var(--text-secondary) !important;
+  fill: var(--text-secondary) !important;
+}
+
+.IL9EXe:hover {
+  background-color: var(--bg-dark) !important;
+}
+
+/* Page BG */
+.Bl2pUd,
+.pWhTUc {
+  background-color: var(--bg-dark) !important;
+}
+
+/* UNREAD Notice */
+.Fv5sh {
+  background-color: var(--bg-dark) !important;
+}
+
+/* Following Button */
+.yg4pvb:before {
+  background: transparent !important;
+}
+
+.zxHSSc {
+  color: lightskyblue !important;
+}
+
+/* text */
+.Zc1Emd {
+  color: var(--text-primary) !important;
+}
+.Zc1Emd:hover {
+  background-color: var(--bg-dark) !important;
+}
+
+/* Message Time Stamp */
+.b8Cb3d {
+  color: var(--text-secondary) !important;
+}
+
+/* Message block container */
+.oGsu4,
+.dsoUjb,
+.HTZBof,
+.AflJR {
+  background-color: var(--bg-darker) !important;
+}
+
+.dsoUjb {
+  border: transparent !important;
+}
+
+.XbbXmb.zzVqCe .nF6pT,
+.dsoUjb .jGyvbd .jO0Dzb {
+  background-color: var(--bg-darker) !important;
+}
+
+.oGsu4:hover,
+.iKCce:hover,
+.z1PNZe:hover,
+.hu21Y:hover {
+  background-color: var(--bg-dark) !important;
+}
+
+.nF6pT.FwR7Pc .iKCcE,
+.hu21Y:hover {
+  background-color: var(--bg-dark) !important;
+}
+
+/* Name */
+.oGsu4 span .njhDLd {
+  color: var(--text-primary) !important;
+}
+
+/* @All */
+.fWwrkf {
+  color: lightseagreen !important;
+}
+
+/* Code Block */
+.U8d2H {
+  background-color: #293a3a !important;
+  border: 1px solid #293a3a !important;
+}
+
+.FMTudf {
+  color: wheat !important;
+  background-color: #293a3a !important;
+}
+
+/* Chat Channel container */
+.WQKmIb .Bl2pUd {
+  background-color: var(--bg-darker) !important;
+}
+
+/* New Thread Button */
+.SfqTBc {
+  background-color: var(--bg-darker) !important;
+}
+
+/* New Thread */
+.qnCNBb {
+  color: var(--text-secondary) !important;
+}
+
+/* Submit Message container*/
+.WQKmIb .byY7Yb,
+.XganBc,
+.vmpzOc {
+  background-color: var(--bg-darker) !important;
+}
+
+.PhFuQe.yXgmRe .dJ9vNe {
+  background-color: var(--bg-dark) !important;
+}
+
+.dJ9vNe {
+  background-color: var(--bg-dark) !important;
+}
+
+/* Recommended Bubble Things */
+.T9VbLe {
+  background: var(--bg-dark) !important;
+}
+
+.ubzhQb {
+  color: lightskyblue !important;
+}
+
+/* Submit Message Text*/
+.AYGmkd {
+  color: var(--text-primary) !important;
+}
+
+/* Emoji Modal */
+
+.zZ3s4 {
+  background-color: var(--bg-dark) !important;
+}
+
+.zgMAae.iWO5td.eO2Zfd .zZ3s4,
+.NhVqFb,
+.Imaktf {
+  border: solid 1px #293a3a !important;
+}
+
+.Tl0u0c {
+  background-color: var(--bg-dark) !important;
+  color: var(--text-primary) !important;
+}
+
+/* Reactions */
+.YK45Id,
+.dIC9Jb {
+  background-color: var(--bg-dark) !important;
+}
+.YK45Id {
+  color: var(--text-primary) !important;
+}
+
+.ENr6Oe {
+  fill: var(--text-primary) !important;
+}
+
+/* Your Reactions */
+.dIC9Jb.CwpxMe .j3630e {
+  color: lightseagreen !important;
+}
