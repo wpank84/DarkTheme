@@ -14,12 +14,20 @@ Old Dark Colors
   --text-primary: #e0e0e0;
   --text-secondary: #808080;
   --notification: #ca3838;
+  --link: #4f9cff;
+  --plate-select: #293a3a;
+}
+
+/* Chat Logo */
+
+g#XMLID_8_-Clipped {
+  fill: white !important;
 }
 
 /* Links */
 a,
 .qiUDtb {
-  color: #4f9cff !important;
+  color: var(--link) !important;
 }
 
 /* Header */
@@ -38,8 +46,9 @@ a,
   border-color: var(--bg-dark) !important;
 }
 
-/* Navbar DM Name*/
-.nk7hB .cAW0Vc {
+/* DM Name*/
+.nk7hB .cAW0Vc,
+.CmMf8e {
   color: var(--text-primary) !important;
 }
 
@@ -87,7 +96,8 @@ a,
 
 .Y2UUVd,
 .ffyVOd,
-.ReIHZc .ZTmjQb {
+.ReIHZc .ZTmjQb,
+.Y2UUVd.Y2UUVd.Y2UUVd .zHQkBf.zHQkBf {
   color: var(--text-primary) !important;
 }
 
@@ -98,6 +108,14 @@ a,
 
 .d6pS5 {
   box-shadow: 0 12px 12px -2px rgba(128, 137, 147, 0.07) !important;
+}
+
+.d6pS5.iWO5td .ffyVOd {
+  background-color: transparent !important;
+}
+
+d6pS5.iWO5td .uDjj8c {
+  box-shadow: transparent !important;
 }
 
 /* Search Modal */
@@ -133,7 +151,7 @@ a,
 .FS4hgd.iWO5td.iWO5td,
 div .dHI9xe.KKjvXb,
 div .dHI9xe.qs41qe {
-  background-color: #293a3a !important;
+  background-color: var(--plate-select) !important;
 }
 
 .dHI9xe.qs41qe .ojqkvd.ojqkvd {
@@ -210,6 +228,10 @@ div .dHI9xe.qs41qe {
 /* Name */
 .oGsu4 span .njhDLd {
   color: var(--text-primary) !important;
+}
+/* @ Modal*/
+.t1B6D .jBmls {
+  background-color: var(--bg-dark) !important;
 }
 
 /* @All */

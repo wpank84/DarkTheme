@@ -1,6 +1,6 @@
 {
   "name": "Dark Theme for Google Chat",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Converts Google Chat to a dark theme",
   "content_scripts": [
     {
