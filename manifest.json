@@ -1,6 +1,6 @@
 {
   "name": "Dark Theme for Google Chat",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "Converts Google Chat to a dark theme",
   "content_scripts": [
     {
@@ -8,5 +8,19 @@
       "css": ["replace.css"]
     }
   ],
+  "page_action": {
+    "default_icon": {
+      "16": "darkmode-icon16.png",
+      "32": "darkmode-icon32.png",
+      "48": "darkmode-icon48.png",
+      "128": "darkmode-icon128.png"
+    }
+  },
+  "icons": {
+    "16": "darkmode-icon16.png",
+    "32": "darkmode-icon32.png",
+    "48": "darkmode-icon48.png",
+    "128": "darkmode-icon128.png"
+  },
   "manifest_version": 2
 }

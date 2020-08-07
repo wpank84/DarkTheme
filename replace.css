@@ -47,11 +47,23 @@ a,
   border-color: var(--bg-dark) !important;
 }
 
+/* Icons */
+div .mUbCce:hover,
+.FWvJ9.iWO5td,
+.Nj8aCb:hover,
+.JRtysb:hover .snByac {
+  fill: var(--text-primary) !important;
+}
+
 /* DM Name*/
 .nk7hB .cAW0Vc,
 .CmMf8e,
 span.CmMf8e {
   color: var(--text-primary) !important;
+}
+
+.ue8vk {
+  color: var(--text-secondary) !important;
 }
 
 /* Navbar Room Name */
@@ -165,6 +177,51 @@ div.ndJi5d.snByac {
 /* Group Message Avatars */
 .gguVqe .iXHk0b .YQsadf {
   box-shadow: 2px 0 var(--bg-dark) !important;
+}
+
+/* Group Message Dropdown */
+.JPdR6b {
+  background-color: var(--bg-dark) !important;
+}
+
+.z80M1 {
+  color: var(--text-primary) !important;
+}
+
+.R5Q1ue .FCx0Ne {
+  color: var(--text-secondary) !important;
+}
+
+.z80M1.FwR7Pc {
+  background-color: var(--plate-select) !important;
+}
+
+/* View Members */
+.Ftdlzd {
+  color: var(--text-primary) !important;
+}
+
+.O6HEx {
+  color: var(--text-secondary) !important;
+}
+
+/* Add Members */
+.gAzxG {
+  background-color: var(--bg-dark) !important;
+}
+
+.wLzlc,
+.kyAPFb .zHQkBf {
+  color: var(--text-primary) !important;
+}
+
+.m9oHdf {
+  background-color: var(--bg-darker) !important;
+  border: solid 1px var(--bg-darker) !important;
+  color: var(--text-primary) !important;
+}
+.zsIcid {
+  cursor: pointer !important;
 }
 
 /* Create Room */
@@ -402,6 +459,10 @@ div .dHI9xe.qs41qe {
 /* New Thread Button */
 .SfqTBc {
   background-color: var(--bg-darker) !important;
+}
+
+.aVw1Ob {
+  color: var(--text-secondary) !important;
 }
 
 /* New Thread */
