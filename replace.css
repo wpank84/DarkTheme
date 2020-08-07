@@ -16,6 +16,7 @@ Old Dark Colors
   --notification: #ca3838;
   --link: #4f9cff;
   --plate-select: #293a3a;
+  --button-blue: #87cefa;
 }
 
 /* Chat Logo */
@@ -48,7 +49,8 @@ a,
 
 /* DM Name*/
 .nk7hB .cAW0Vc,
-.CmMf8e {
+.CmMf8e,
+span.CmMf8e {
   color: var(--text-primary) !important;
 }
 
@@ -123,6 +125,124 @@ d6pS5.iWO5td .uDjj8c {
   color: var(--bg-darker) !important;
 }
 
+/* Create Group Message Page */
+
+.Xs68kb {
+  background-color: var(--bg-darker) !important;
+}
+
+.JHZPc {
+  color: var(--text-secondary) !important;
+}
+
+.KHc2df {
+  background-color: var(--bg-dark) !important;
+}
+
+.xdFkmc {
+  background-color: var(--bg-darker) !important;
+  border: 1px solid var(--bg-dark) !important;
+}
+
+span.ZTmjQb.Kw4Vcb,
+.RlRsid .zHQkBf {
+  color: var(--text-primary) !important;
+}
+.vHO3Cb,
+.LzW5wf,
+div.ndJi5d.snByac {
+  color: var(--text-secondary) !important;
+}
+
+/* Message Button */
+.HQ8yf .RveJvd.RveJvd,
+.oG5Srb .RveJvd.RveJvd,
+.KV0KFc .ojqkvd {
+  color: var(--button-blue) !important;
+  fill: var(--button-blue) !important;
+}
+
+/* Create Room */
+.g3VIld {
+  background-color: var(--bg-darker) !important;
+}
+
+.EEqkrc {
+  color: var(--text-primary) !important;
+}
+
+.bM00Xe {
+  color: var(--text-secondary) !important;
+}
+
+.rFrNMe:not(.Xavc3e):not(.e96Lvf) .zHQkBf,
+.rFrNMe:not(.Xavc3e):not(.e96Lvf) .snByac {
+  color: var(--text-primary) !important;
+}
+
+/* Browse Rooms */
+.AzykZd {
+  background-color: var(--bg-dark) !important;
+}
+
+.Y0P4fd {
+  border: 1px solid var(--bg-dark) !important;
+}
+
+.SXT4Yd {
+  background-color: var(--bg-darker) !important;
+}
+
+.SXT4Yd:hover {
+  background-color: var(--plate-select) !important;
+}
+
+.yNC4Cd {
+  color: var(--text-primary) !important;
+}
+
+.z2iKE {
+  color: var(--text-secondary) !important;
+}
+
+.VEFddc {
+  background-color: var(--bg-darker) !important;
+  border: solid 1px var(--bg-dark) !important;
+}
+
+.N7E6hd {
+  color: var(--text-primary) !important;
+}
+
+/* Room Preview */
+
+.x7DKme {
+  background-color: var(--bg-dark) !important;
+}
+
+.CjSwue {
+  background-color: var(--bg-darker) !important;
+}
+
+.BhQsO {
+  color: var(--text-secondary) !important;
+}
+
+.oPqlY {
+  background-color: var(--bg-darker) !important;
+}
+
+/* View Members */
+.RiJ7yf {
+  color: var(--text-primary) !important;
+}
+
+/* Message Requests */
+.uDjj8c,
+.KUDli {
+  background-color: var(--bg-dark) !important;
+}
+
 /* Side Nav */
 
 .EdWvwd,
@@ -180,7 +300,7 @@ div .dHI9xe.qs41qe {
 }
 
 .zxHSSc {
-  color: lightskyblue !important;
+  color: var(--button-blue) !important;
 }
 
 /* text */
