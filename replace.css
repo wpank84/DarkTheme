@@ -162,6 +162,11 @@ div.ndJi5d.snByac {
   fill: var(--button-blue) !important;
 }
 
+/* Group Message Avatars */
+.gguVqe .iXHk0b .YQsadf {
+  box-shadow: 2px 0 var(--bg-dark) !important;
+}
+
 /* Create Room */
 .g3VIld {
   background-color: var(--bg-darker) !important;
@@ -267,6 +272,11 @@ div.ndJi5d.snByac {
   color: var(--text-secondary) !important;
 }
 
+/* Room Icons */
+.OcqlLb.vif9vc {
+  background-color: var(--bg-dark) !important;
+}
+
 /* Name Plate Highlight*/
 .FS4hgd.iWO5td.iWO5td,
 div .dHI9xe.KKjvXb,
@@ -285,8 +295,17 @@ div .dHI9xe.qs41qe {
 
 /* Page BG */
 .Bl2pUd,
-.pWhTUc {
+.pWhTUc,
+.bzJiD,
+.EyyDtb,
+.DLc2vb .Bqp03e[data-soft-view-id^='/dm'],
+.DLc2vb .Bqp03e[data-soft-view-id^='/room'] {
   background-color: var(--bg-dark) !important;
+}
+
+/* Page Transition */
+.CMcgue {
+  background-color: rgba(0, 0, 0, 0.5) !important;
 }
 
 /* UNREAD Notice */
@@ -301,6 +320,11 @@ div .dHI9xe.qs41qe {
 
 .zxHSSc {
   color: var(--button-blue) !important;
+}
+
+/* Jump to Bottom button */
+.CssSP {
+  box-shadow: none !important;
 }
 
 /* text */
