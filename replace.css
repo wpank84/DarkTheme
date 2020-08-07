@@ -400,6 +400,12 @@ div .dHI9xe.qs41qe {
   background-color: var(--bg-dark) !important;
 }
 
+/* Replace Item Popup */
+.PNenzf,
+.PbnGhe {
+  color: var(--text-primary) !important;
+}
+
 /* Recommended Bubble Things */
 .T9VbLe {
   background: var(--bg-dark) !important;
